@@ -1,0 +1,79 @@
+{
+    "coMenu": {
+        "home": "Home",
+        "howWorks": "How it works",
+        "forYou": "It's for you",
+        "workHere": "Work at BHC",
+        "faq": "FAQ",
+        "apply":"Apply now"
+      },
+
+      "coHero":{
+        "badge":"#01 Brazilian Cooperative in Ireland 🇮🇪",
+        "title":"Join the Brazilian Hands Cooperative",
+        "subtitle":"At Brazilian Hands Cooperative, we are always looking for new Brazilian employees willing to offer cleaning, maintenance, beauty, and others.If you are in Ireland and look for a flexible and well paid job opportunity, be part of our team!",
+        "cta1":"Know more",
+        "cta2":"I want to apply"
+      },
+
+      "coAbout":{
+        "badge":"In doubt if it is for you?",
+        "title":"Who can be part?",
+        "subtitle1":"If you have a talent for services such as residential cleaning, gardening, painting, repairs or beauty, and are in Ireland looking for an opportunity, we want you on our team!Whether experienced or new in the area, in ",
+        "subtitle2":"We offer support for you to feel safe and valued at work.",
+        "cta":"Apply now!"
+      },
+
+      "coChoose":{
+        "badge":"Why work with us?",
+        "title":"Reasons to work at BHC",
+        
+        "cardTitle1":"Attractive gains",
+        "cardSubtitle1":"Here, you get 80% of the value of each service provided.It is one of the best returns on the market, ensuring that your effort is just rewarded.",
+
+        "cardTitle2":"Flexibility",
+        "cardSubtitle2":"You decide where and when you want to work.You can choose to serve only in your city or move to others, according to your availability and means of transport.At Brazilian Hands Cooperative, who controls your schedule is you!",
+
+        "cardTitle3":"Guaranteed payment",
+        "cardSubtitle3":"We take care of all the administrative part!The company receives the payment of customers and makes the transfer directly to you.This means that you can focus on what you do best, without worry about bureaucracies.",
+
+        "cta":"I want to apply!"
+      },
+
+      "coForm": {
+        "letsWork": "Let's work together!",
+        "beMember": "Be a member",
+        "fullName": "Full name",
+        "fullNamePlaceholder": "Your full name",
+        "whatsapp": "WhatsApp",
+        "whatsappPlaceholder": "Your best contact",
+        "city": "Which city do you reside in?",
+        "cityPlaceholder": "Select a city",
+        "eircode": "Eircode",
+        "eircodePlaceholder": "Your Eircode",
+        "street": "Street",
+        "streetPlaceholder": "Street name",
+        "district": "Neighborhood",
+        "districtPlaceholder": "District name",
+        "houseNumber": "House Number",
+        "houseNumberPlaceholder": "Your house number",
+        "skills": "What services do you perform?",
+        "skillsPlaceholder": "Write the name of the services you perform ...",
+        "apply":"Send application"
+      },
+
+
+      "footer": {
+        "services": "Services",
+        "contactInfo": "Contact Info",
+        "follow": "Follow us",
+        "description":"Affordable cleaning, garden care, beauty, and repair services in Ireland. Professionalism with a Brazilian touch."
+      },
+ 
+
+      "alerts": {
+        "ops": "Oops!",
+        "checkFields": "Make sure all fields are filled in!",
+        "ok": "Ok"
+      }
+  }
